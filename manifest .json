@@ -1,0 +1,30 @@
+{
+  "name": "Cuadra Monte de Balisa",
+  "short_name": "Cuadra Balisa",
+  "description": "Gestión equina de la Cuadra Monte de Balisa",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F5EDE0",
+  "theme_color": "#196B24",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "scope": "./"
+}
